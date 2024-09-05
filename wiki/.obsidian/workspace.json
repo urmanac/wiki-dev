@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8d51b7c132fbc69f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96698c66bc468b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b40ad9854f8e4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zlack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e80b5c01a70f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4421468587a21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81da1506beae28e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac4078ad25317e33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1cce3e6aea3e7d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a38a62b3dbe6909a",
+    "type": "split",
+    "children": [
+      {
+        "id": "607651ceca19b40a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0501a5b93e2b79da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zlack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06736dba69fe86d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zlack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5e0f967d45e26a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aea14fc6c474d479",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zlack.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b40ad9854f8e4a4",
+  "lastOpenFiles": [
+    "yint.md",
+    "yi-jing.md",
+    "work.md",
+    "wiki.md",
+    "weather.md",
+    "volt.md",
+    "vita.md",
+    "verse.md",
+    "venetia-sigil.md",
+    "venetia.md",
+    "urlinks.md",
+    "urdl.md",
+    "urbitswap.md",
+    "urbit-visor.md",
+    "urbit-sync.md",
+    "urbit-feed-aggregator.md",
+    "urbit-content-archiver.md",
+    "uqbar-development-suite.md",
+    "uniswap.md",
+    "ucal.md",
+    "tz.md",
+    "turf.md",
+    "trove.md",
+    "trill.md",
+    "transit.md",
+    "trackur.md"
+  ]
+}
