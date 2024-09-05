@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Hydra
 
-A live code-able video synth originally developed by Olivia Jack. Now it’s on Urbit. Hydra on Urbit app has a library that stores your sketches and allows you to share them with your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> in one click. You can even edit and save each other's work. <sup>[1]</sup>
+A live code-able video synth originally developed by Olivia Jack. Now it’s on Urbit. Hydra on Urbit app has a library that stores your sketches and allows you to share them with your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> in one click. You can even edit and save each other's work. <sup>[1]</sup>
 
 ## Media
 

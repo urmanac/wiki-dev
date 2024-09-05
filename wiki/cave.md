@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Cave
 
 swarm ascii art<br>
-<a class="xlink">Cave</a> uses `%gossip` to send shapes to <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a>. when shapes are received they're checked against ones already in state and if nothing overlaps, they're committed and shown. <sup>[2]</sup>
+<a class="xlink">Cave</a> uses `%gossip` to send shapes to <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a>. when shapes are received they're checked against ones already in state and if nothing overlaps, they're committed and shown. <sup>[2]</sup>
 
 ## Media
 

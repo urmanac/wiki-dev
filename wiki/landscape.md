@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Landscape
 
 The primary launching interface for your Urbit apps. The current graphical user interface is aptly called `grid`.<br>
-In the past <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a> was referred to as Landscape. 
+In the past <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a> was referred to as Landscape. 
 
 ## Media
 

@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Tlon
 
-The suite of social tools made by Tlon. Formerly called <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/landscape">Landscape</a>, it is now a combination of <span class="xlink">Groups</span>, <span class="xlink">Talk</span>, <span class="xlink">Gallery</span> and <span class="xlink">Notebook</span> alongside a variety of other features. Although it's not the only one anymore, it is still the primary app for text-based communications on Urbit. The most recent phase is called *Groups 3*.
+The suite of social tools made by Tlon. Formerly called <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/landscape">Landscape</a>, it is now a combination of <span class="xlink">Groups</span>, <span class="xlink">Talk</span>, <span class="xlink">Gallery</span> and <span class="xlink">Notebook</span> alongside a variety of other features. Although it's not the only one anymore, it is still the primary app for text-based communications on Urbit. The most recent phase is called *Groups 3*.
 
 The developers have created a native **mobile app** which you can find in the **App Store**!
 

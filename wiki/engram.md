@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Engram
 
-A collaborative document editor, inspired by Google Docs. This was one of the default apps available in Holium's <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/realm">Realm</a>.
+A collaborative document editor, inspired by Google Docs. This was one of the default apps available in Holium's <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/realm">Realm</a>.
 
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: urbit.org/grants
 

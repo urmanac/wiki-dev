@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Channel
 
-An imageboard platform inspired by the classic chans. It leverages graph-store to allow any ship on the Urbit network to create and manage their own imageboard. If you like this concept, check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/lemur">Lemur</a>!<br>
+An imageboard platform inspired by the classic chans. It leverages graph-store to allow any ship on the Urbit network to create and manage their own imageboard. If you like this concept, check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/lemur">Lemur</a>!<br>
 Developed as a collaboration between the Quartus Corporation and Reciprocal Ltd.
 
 <div class="tweet-wrap">

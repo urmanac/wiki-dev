@@ -21,7 +21,7 @@ position: absolute;z-index: 1;}
 
 # Trill
 
-It's like Mastodon or Twitter, *but on Urbit!* Publish short messages on the Global Feed, reply to others with heart emojis, pepes or witty comments, and review your awesome posts on your personal page. Trill integrates with <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Tlon</a>'s direct messages, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/contacts">Contacts</a>, providing an enhanced social experience.
+It's like Mastodon or Twitter, *but on Urbit!* Publish short messages on the Global Feed, reply to others with heart emojis, pepes or witty comments, and review your awesome posts on your personal page. Trill integrates with <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Tlon</a>'s direct messages, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/contacts">Contacts</a>, providing an enhanced social experience.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/trill-ufa](https://urbit.org/grants/trill-ufa) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

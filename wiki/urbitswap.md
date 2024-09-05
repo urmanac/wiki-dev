@@ -25,7 +25,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 A peer-to-peer NFT trading platform native to Urbit. Since special rules and laws apply to centralized exchanges, the peer-to-peer model of Urbit allows people to trade assets online more freely. The underlying protocol provides the proper legal framework for these transactions.
 
-If you like this concept, you should check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/safe">Safe</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/uniswap">Uniswap</a> as well!
+If you like this concept, you should check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/safe">Safe</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/uniswap">Uniswap</a> as well!
 
 ## Media
 

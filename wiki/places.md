@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Places
 
-A mysterious map filled with markers found via the <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> network. A fork of <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/rumors">Rumors</a>, it uses its `gossip.hoon` library to pass around data. Read the Github page for more details.
+A mysterious map filled with markers found via the <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> network. A fork of <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/rumors">Rumors</a>, it uses its `gossip.hoon` library to pass around data. Read the Github page for more details.
 
 ## Media
 

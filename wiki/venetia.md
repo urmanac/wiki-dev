@@ -26,7 +26,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 A simple command-line utility for generating a list of planet names issuable from an Urbit star. It can list `@p`'s with only English words in them (e.g.: <span class="urlink">~Winter-ToldUs</span>), `@p`'s that contain *any* word from the word list, or the full list of 65536 planets the selected star can spawn.<br>
 
 You'll need NPM before you can install this. Read more on the Github page.
-If you like this app, check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/venetia-sigil">Venetia Sigil</a> and [urbit.me](https://urbit.me) as well!
+If you like this app, check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/venetia-sigil">Venetia Sigil</a> and [urbit.me](https://urbit.me) as well!
 
 ## Media
 

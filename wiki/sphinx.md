@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Sphinx
 
-Sphinx is a search engine powered by you and your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a>. Using the gossip mechanism developed by <span class="urlink">~paldev</span> for <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/rumors">Rumors</a>, anytime you post a listing it gets indexed on your urbit and then shared with your friends and friends of friends.
+Sphinx is a search engine powered by you and your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a>. Using the gossip mechanism developed by <span class="urlink">~paldev</span> for <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/rumors">Rumors</a>, anytime you post a listing it gets indexed on your urbit and then shared with your friends and friends of friends.
 
 ## Media
 

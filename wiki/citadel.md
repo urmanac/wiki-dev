@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Citadel
 
 Desk management on Urbit.<br>
-If you like this concept, you should also check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/eyas">Eyas</a>.
+If you like this concept, you should also check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/eyas">Eyas</a>.
 
 ## Media
 

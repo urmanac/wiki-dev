@@ -25,7 +25,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 Money makes the world go around. <span class="xlink">Fund</span> aims to help navigate the uncertainties of raising funds from people all over the world. Create shareable campaigns with milestones, contribute to active funds, or if you're a star owner, earn rewards by evaluating funded projects! Read more at [tocwexsyndicate.com](http://tocwexsyndicate.com).
 
-The old version of this app (made by the Dalten Collective) was used to fund the development of <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/urdl">Urdl</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/aera">Aera</a>. <sup>[1]</sup> <sup>[2]</sup>
+The old version of this app (made by the Dalten Collective) was used to fund the development of <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/urdl">Urdl</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/aera">Aera</a>. <sup>[1]</sup> <sup>[2]</sup>
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/fund](https://urbit.org/grants/fund) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

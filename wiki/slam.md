@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Slam
 
-An exciting arcade game that allows you to battle the <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/gora">gorae</a> of your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a>. Taking inspiration from Asteroids, it feels like a real-time shoot-out between Urbit ships.
+An exciting arcade game that allows you to battle the <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/gora">gorae</a> of your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a>. Taking inspiration from Asteroids, it feels like a real-time shoot-out between Urbit ships.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/slam](https://urbit.org/grants/slam) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

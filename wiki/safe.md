@@ -25,7 +25,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 A fully self-hosted <a href="https://app.safe.global">Gnosis Safe</a> frontend, deployed via Urbit.
 
-If you like this concept, you should check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/uniswap">Uniswap</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/urbitswap">Urbitswap</a> as well!
+If you like this concept, you should check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/uniswap">Uniswap</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/urbitswap">Urbitswap</a> as well!
 
 ## Media
 

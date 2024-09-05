@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Yi Jing
 
-A social divination app based on an ancient Chinese divination system known as the *Yi Jing*, or *I Ching*. Random coin flips generate hexagrams, which are symbols with 6 broken or solid lines with associated commentary, in response to a query. Casts are then shared with your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> mutuals.
+A social divination app based on an ancient Chinese divination system known as the *Yi Jing*, or *I Ching*. Random coin flips generate hexagrams, which are symbols with 6 broken or solid lines with associated commentary, in response to a query. Casts are then shared with your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> mutuals.
 
 During the <a href="https://urbit.org/blog/hackathon-2023">2023 Urbit Hackathon</a>, Yi Jing was the winner for "**Best UI**".
 

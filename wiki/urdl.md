@@ -25,7 +25,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 Wordle, *but on Urbit.* 5 letters, valid English guess words only, daily games, and a leaderboard supported by Solid State Subscription technology.
 
-This was the first project funded via <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/fund">Fund</a>, having raised **$1051** in a mere **3 hours**. <sup>[1]</sup>
+This was the first project funded via <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/fund">Fund</a>, having raised **$1051** in a mere **3 hours**. <sup>[1]</sup>
 
 There was an earlier version was called <a class="xlink">Wrdu</a>, which only had 4-letter words.
 

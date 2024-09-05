@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Bitcoin
 
 Wallet for sending, receiving and reviewing past $BTC transactions, *but on Urbit.*  After its 2021 release, this app was shipped with Urbit by default. They were eventually decoupled.<br>
-**Note:** If you like this concept, you should check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/volt">Volt</a>.
+**Note:** If you like this concept, you should check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/volt">Volt</a>.
 
 Developers bringing Bitcoin to Urbit were funded via the Urbit Foundation's grants program. You can read about it here:
 - [urbit.org/grants/bitcoin-node-json-rpc-api-part-1](https://urbit.org/grants/bitcoin-node-json-rpc-api-part-1)

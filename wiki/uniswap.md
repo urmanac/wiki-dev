@@ -28,7 +28,7 @@ Did you know Ethereum has tokens other than ETH? This app allows you to swap bet
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/urbitswap](https://urbit.org/grants/urbitswap) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)
 
-If you like this concept, you should check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/safe">Safe</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/urbitswap">Urbitswap</a> as well!
+If you like this concept, you should check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/osmosis">Osmosis</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/safe">Safe</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/urbitswap">Urbitswap</a> as well!
 
 ## Media
 

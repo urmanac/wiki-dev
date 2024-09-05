@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Lexicon
 
-An app to define/re-define words on a per-group basis. This is one of the five apps that was developed for Holium's App dev summer. The others were: <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/abacus">Abacus</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/chronicle">Chronicle</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/minesweeper">Minesweeper</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/trove">Trove</a>. This was one of the default apps available in Holium's <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/realm">Realm</a>.
+An app to define/re-define words on a per-group basis. This is one of the five apps that was developed for Holium's App dev summer. The others were: <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/abacus">Abacus</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/chronicle">Chronicle</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/minesweeper">Minesweeper</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/trove">Trove</a>. This was one of the default apps available in Holium's <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/realm">Realm</a>.
 
 A grant bounty for this project was published by the Urbit Foundation, which you can read here: [urbit.org/grants/lexicon](https://urbit.org/grants/lexicon) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

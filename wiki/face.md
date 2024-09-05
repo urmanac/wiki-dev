@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Face
 
-An image rolodex of your Urbit friends. <span class="xlink">Face</span> lets you share a photo of yourself with your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> mutuals and see a gallery of their faces.
+An image rolodex of your Urbit friends. <span class="xlink">Face</span> lets you share a photo of yourself with your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> mutuals and see a gallery of their faces.
 
 ## Media
 

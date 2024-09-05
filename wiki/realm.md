@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Realm
 
 Sleek, collaborative environment for teams, built on top of Urbit. Used to come with a suite of apps. The full experience was only available for people accepted into the closed beta.
-Apps available by default: <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/engram">Engram</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/campfire">Campfire</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/trove">Trove</a> <sup>[citation missing]</sup>
+Apps available by default: <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/engram">Engram</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/campfire">Campfire</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/trove">Trove</a> <sup>[citation missing]</sup>
 
 <div class="tweet-wrap">
   <div class="tweet-header">

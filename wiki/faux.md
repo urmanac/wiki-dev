@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Faux
 
-Every community should be on Urbit. Currently, many of them are on Discord. Faux helps to bridge the gap by mirroring messages between Discord channels and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a> on Urbit.
+Every community should be on Urbit. Currently, many of them are on Discord. Faux helps to bridge the gap by mirroring messages between Discord channels and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a> on Urbit.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/faux](https://urbit.org/grants/faux) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

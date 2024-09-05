@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Hits
 
-A leaderboard of the most popular (install count) Urbit apps... according to your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> mutuals. Trending apps are determined by the frequency of installs your Hits app knows about.<br>
+A leaderboard of the most popular (install count) Urbit apps... according to your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> mutuals. Trending apps are determined by the frequency of installs your Hits app knows about.<br>
 **IMPORTANT NOTE:** These aren't definitive rankings for the whole Urbit network.
 
 ## Media

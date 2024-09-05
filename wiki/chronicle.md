@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Chronicle
 
-A news app that fetches articles for you that were shared in <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a>. This is one of the five apps that was developed for Holium's App dev summer. The others were: <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/abacus">Abacus</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/lexicon">Lexicon</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/minesweeper">Minesweeper</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/trove">Trove</a>.
+A news app that fetches articles for you that were shared in <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a>. This is one of the five apps that was developed for Holium's App dev summer. The others were: <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/abacus">Abacus</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/lexicon">Lexicon</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/minesweeper">Minesweeper</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/trove">Trove</a>.
 
 A grant bounty for this project was published by the Urbit Foundation, which you can read here: [urbit.org/grants/abacus](https://urbit.org/grants/chronicle) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)
@@ -47,7 +47,7 @@ If you have an idea, want to learn as an apprentice or fancy getting paid as a d
 <span style="float: right;position: relative;font-size: 2em;top: -30;right: -20;">𝕏</span>
 </div>
 
-<i>"old <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups 2</a> infrastructure as well as old <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/realm">Realm</a> styling. If someone wanted to make a new one, it'd make more sense to start from scratch."</i> — <span class="urlink"> ~hanfel-dovned </span>
+<i>"old <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups 2</a> infrastructure as well as old <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/realm">Realm</a> styling. If someone wanted to make a new one, it'd make more sense to start from scratch."</i> — <span class="urlink"> ~hanfel-dovned </span>
 
 ## Media
 

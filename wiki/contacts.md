@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Contacts
 
-A place to put all the important information about your friends and new acquaintances. Add their names, email address, occupation, or other things that you want to remember about them. You can even save your own information and share your profile with others. All kept within your Urbit ship. <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/trill">Trill</a> connects to <span class="xlink">Contacts</span>, but only your own profile is public.
+A place to put all the important information about your friends and new acquaintances. Add their names, email address, occupation, or other things that you want to remember about them. You can even save your own information and share your profile with others. All kept within your Urbit ship. <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/trill">Trill</a> connects to <span class="xlink">Contacts</span>, but only your own profile is public.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/whom](https://urbit.org/grants/whom) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

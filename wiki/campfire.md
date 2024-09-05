@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Campfire
 
-The practical implementation of WebRTC on Urbit, allowing you to do 1-on-1 voice and video chats. A revamped version was made for Holium's <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/">Realm</a>. This was one of the default apps available in <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/realm">Realm</a>.
+The practical implementation of WebRTC on Urbit, allowing you to do 1-on-1 voice and video chats. A revamped version was made for Holium's <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/">Realm</a>. This was one of the default apps available in <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/realm">Realm</a>.
 
 ## Media
 

@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Sc'o're
 
-A leaderboard of emoji reactions your mutuals in <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> mutuals have received in <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Tlon</a> groups.
+A leaderboard of emoji reactions your mutuals in <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> mutuals have received in <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Tlon</a> groups.
 
 ## Media
 

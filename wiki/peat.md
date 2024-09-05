@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Peat
 
 Urbit's first backup utility. It works with the %graph-store backend. **Export** a Social `graph` to the on underlying file system (e.g. Unix), **recover** it later from the same ship or a new one, or locally **recreate** your `graph`, 're-basing' it to be hosted by the local ship
-Quartus also made a backup utility for agent state via <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/keep">Keep</a>.
+Quartus also made a backup utility for agent state via <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/keep">Keep</a>.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/peat](https://urbit.org/grants/peat) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

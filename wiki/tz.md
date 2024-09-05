@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # tz
 
-timezone desk adapted from <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/ucal">ucal</a>
+timezone desk adapted from <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/ucal">ucal</a>
 
 </article><aside>
 

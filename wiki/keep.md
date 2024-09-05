@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Keep
 
 The classic backup utility for preserving the **state** of your applications across ship breaches.
-Unlike <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/peat">Peat</a>, <span class="xlink">Keep</span> can backup the state of any arbitrary agent, but does not offer granular control of specific graphs or other targeted contexts.
+Unlike <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/peat">Peat</a>, <span class="xlink">Keep</span> can backup the state of any arbitrary agent, but does not offer granular control of specific graphs or other targeted contexts.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/keep](htps://urbit.org/grants/keep) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

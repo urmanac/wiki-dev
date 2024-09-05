@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Mentat
 
-An AI assistant made for <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a>. It is designed to work specifically with <a href="https://replicate.com">Replicate.com</a> models. It currently supports queries, chat, image generation, todo list management and reminders, with <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/turf">Turf</a> integration for images, and notifications under construction.
+An AI assistant made for <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a>. It is designed to work specifically with <a href="https://replicate.com">Replicate.com</a> models. It currently supports queries, chat, image generation, todo list management and reminders, with <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/turf">Turf</a> integration for images, and notifications under construction.
 
 The developers participated in the <a href="https://urbit.org/blog/hackathon-2023">2023 Urbit Hackathon</a> and received an honorable mention.
 

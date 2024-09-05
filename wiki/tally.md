@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Tally
 
-Ring signature voting for <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">groups</a>.
+Ring signature voting for <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">groups</a>.
 
 ## Media
 

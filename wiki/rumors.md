@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Rumors
 
-People say the craziest stuff when they're anonymous. <span class="xlink">Rumors</span> let's you do this on a simple board that always shows the most recent message. The gossip protocol (developed by <span class="urlink">~paldev</span>) uses your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> network (mutuals + their mutuals) to gather these (theoretically) anonymous messages.
+People say the craziest stuff when they're anonymous. <span class="xlink">Rumors</span> let's you do this on a simple board that always shows the most recent message. The gossip protocol (developed by <span class="urlink">~paldev</span>) uses your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> network (mutuals + their mutuals) to gather these (theoretically) anonymous messages.
 
 ## Media
 

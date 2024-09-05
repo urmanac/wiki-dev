@@ -24,7 +24,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Osmosis
 
 A fully self-hosted Osmosis frontend, deployed via Urbit.<br>
-If you like this concept, you should check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/uniswap">Uniswap</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/safe">Safe</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/urbitswap">Urbitswap</a> as well!
+If you like this concept, you should check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/uniswap">Uniswap</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/safe">Safe</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/urbitswap">Urbitswap</a> as well!
 
 ## Media
 

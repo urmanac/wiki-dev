@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Grove
 
-A file browser for <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Groups</a> on Urbit. An alpha version is publicly available.
+A file browser for <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Groups</a> on Urbit. An alpha version is publicly available.
 
 **Note:** This app is in alpha, so it may not work as intended.
 

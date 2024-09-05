@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Astrolabe
 
-A window for peering into the vast universe of Urbit. You can learn about any possible Urbit ship. The **sky chart** gives you an overhead view of your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a>, focus on any one Urbit ship, or view the entire network, allowing you to see the connections between planets, stars, and galaxies. Astrolabe also helps you find any ship with its enhanced @p search and a sigil finder.
+A window for peering into the vast universe of Urbit. You can learn about any possible Urbit ship. The **sky chart** gives you an overhead view of your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a>, focus on any one Urbit ship, or view the entire network, allowing you to see the connections between planets, stars, and galaxies. Astrolabe also helps you find any ship with its enhanced @p search and a sigil finder.
 
 A grant proposal for this project was accepted by the Urbit Foundation, which you can read here: [urbit.org/grants/astrolabe](https://urbit.org/grants/astrolabe) <br>
 If you have an idea, want to learn as an apprentice or fancy getting paid as a developer, please, have a look over the Urbit Foundation's grants program here: [urbit.org/grants](https://urbit.org/grants)

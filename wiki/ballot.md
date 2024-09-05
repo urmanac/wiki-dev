@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Ballot
 
-Allows you to create and vote on proposals, delegate votes to other urbit ships, and trigger actions based on results. A revamped version was made for Holium's <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/realm">Realm</a>.
+Allows you to create and vote on proposals, delegate votes to other urbit ships, and trigger actions based on results. A revamped version was made for Holium's <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/realm">Realm</a>.
 
 ## Media
 

@@ -24,10 +24,10 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 # Studio
 
 Need a personal website, fast? Studio can set one up in under a minute. For writers, Studio connects you with your legacy-web audience, even if they’re not on Urbit yet. With a click, you can share your newsletter or blog via auto-generated blog or email distribution list
-Studio pulls content from your <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/tlon">Tlon</a> notebooks. Notebooks from any group you own will appear.<br>
+Studio pulls content from your <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/tlon">Tlon</a> notebooks. Notebooks from any group you own will appear.<br>
 If you need any help, we’re always available in our group: <span class="urlink">~tirrel/tirrel-support</span>
 
-If you like this concept, you should also check out <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/blog">Common Blog</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/scratch">Scratch</a>, <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/wiki">Wiki</a> and <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/fund">Fund</a>.
+If you like this concept, you should also check out <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/blog">Common Blog</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/scratch">Scratch</a>, <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/wiki">Wiki</a> and <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/fund">Fund</a>.
 
 Featured in: Ecosystem Spotlight - September 2022
 

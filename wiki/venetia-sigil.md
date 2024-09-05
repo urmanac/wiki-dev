@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Venetia Sigil
 
-<span class="xlink">Venetia Sigil</span> is a simple command-line utility for generating a list of planet names issuable from an Urbit star. This project expands on the original <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/venetia">Venetia</a> to allow searching for planets by sigil shape.
+<span class="xlink">Venetia Sigil</span> is a simple command-line utility for generating a list of planet names issuable from an Urbit star. This project expands on the original <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/venetia">Venetia</a> to allow searching for planets by sigil shape.
 
 You'll need NPM before you can install this. Read more on the Github page.
 If you like this app, check out [urbit.me](https://urbit.me) as well!

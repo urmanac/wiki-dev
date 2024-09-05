@@ -23,7 +23,7 @@ img {max-width:100%;} .avator {border-radius:100px;width:48px;margin-right: 15px
 
 # Board
 
-An implementation of <a href="https://www.robinsloan.com/lab/specifying-spring-83/">Robin Sloan’s Spring ‘83</a> concept as an Urbit app. Imagine a digital bulletin-board where each item is a person’s miniature homepage, and the pages you see are based on your list of <a class="wlink" href="https://bordex-ripdur.tlon.network/wiki/urmanac/pals">Pals</a> mutuals.
+An implementation of <a href="https://www.robinsloan.com/lab/specifying-spring-83/">Robin Sloan’s Spring ‘83</a> concept as an Urbit app. Imagine a digital bulletin-board where each item is a person’s miniature homepage, and the pages you see are based on your list of <a class="wlink" href="/wiki/~/p/~bordex-ripdur/urmanac/pals">Pals</a> mutuals.
 
 ## Media
 
