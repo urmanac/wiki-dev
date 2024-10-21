@@ -38,7 +38,7 @@ Remember that neither Urbit nor this app have had a full security audit yet. Avo
 <table style="width:100%">
   <tr><th style="background-color:#999999">
 
-STATUS: Unknown
+STATUS: <i>Works!</i> <span class="tooltip">&#x1f4c5;<span class="tooltiptext">October 16th 2024 by ~palfun-foslup</span></span>
 
 </th></tr>
   <tr><td>
